@@ -1,0 +1,13 @@
+h1{color: dimgrey; background-image: url(images/113.jpg); background-color: slategrey; font-size: 38px; border-radius: 7px; border: 1px gray;margin: 10px 10%; font-family: 'Bungee Spice', cursive; text-shadow: yellowgreen;}
+h2{color: dimgrey; background-image: url(images/113.jpg); background-color: slategrey; font-size: 32px; border-radius: 5px; border: 1px silver;margin: 10px 10%; font-family: 'Bungee Spice', cursive; text-shadow: yellowgreen;}
+	.general{height:300PX; width: 300PX; border: lightblue; border-width: 90PX; border-radius:50%; box-shadow: 100px;}
+	div{background-image: url(images/115	.jpg);border: 1px solid black;margin: 0 100px;color: lightblue; background-color: black; font-family: 'Bungee Spice', cursive; text-shadow: yellowgreen;}
+			.container{border-radius: 5px; border: 1px solid red; margin: 10px 30%;box-shadow: 5px 5px 5px lightgray;padding: 25px; font-family: 'Nabla', cursive}
+body{text-align: center; border: 1px solid black;font-size: 32px;  background-image: url(images/1425700.jpg);
+		  background-repeat: no-repeat;background-attachment: fixed; background-size: cover;margin: 0px;}
+		  .SocialMedia{border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;}
+  ol { text-align: center; display: inline-block;}
+ 
